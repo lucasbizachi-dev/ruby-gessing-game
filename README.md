@@ -1,1 +1,1 @@
-# ruby-gessing-game
+# Ruby gessing game
